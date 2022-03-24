@@ -1,2 +1,6 @@
 po aqui ja nem tenho mais oq escrever. 
-vou só dar uma enrolada e ver como ficar lá no git bash pra salvar, bora
+vou só dar uma enrolada e ver como fica lá no git bash pra salvar, bora.
+
+deu tudo certo no primeiro upload
+agr vou fazer alterações e jogar pra lá
+um passo de cada vez
