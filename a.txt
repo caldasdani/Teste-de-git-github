@@ -1,1 +1,35 @@
 testando testando 
+
+//ESSES ARQUIVOS NÃO CONTEM NADA DE RELEVANTE.
+//estão servindo apenas como teste para treinar no git e github
+
+aqui eu aprendi os comandos e as funcionalidades dessas aplicações
+desde o basico do basico...
+
+criei esse projeto local no gitBash e no Vscode
+vou jogar pro github como um repositório publico
+espero que dê certo
+
+********CODIGO INICIAIS PARA FUNCIONAMENTO**********
+
+clear -> limpa a tela 
+ls -> ve oq tem no arquivo
+git status -> vê oq tem pra fazer/resolver
+touch -> cria um arquivo na pasta {
+    ex: touch a.txt (criou o arquivo de texto "a")
+}
+git add -> adiciona os arquivos criados para o commit {
+    ex: git add a.txt
+    ex: git . ou git * (joga tudo pro commit)
+}
+git commit -m -> identifica e armazena o commit no repositório {
+    ex: git commit -m "criei o arquivo a"
+}
+git log -> ve os detalhes dos artigos e commits criados, inclusive seus códigos
+git log --oneline -> mesma coisa mas de forma resumida
+
+code . -> te joga pro Vscode
+
+git diff -> mostra a alteração feita no arquivo antes de vc jogar pro commit.
+
+*tem muito mais coisas, obvio.. mas isso é oq peguei até agr. fé*
