@@ -1,6 +1,6 @@
 testando testando 
 
-//ESSES ARQUIVOS NÃO CONTEM NADA DE RELEVANTE.
+//ESSES ARQUIVOS NÃO CONTEM NADA DE MUITO RELEVANTE.
 //estão servindo apenas como teste para treinar no git e github
 
 aqui eu aprendi os comandos e as funcionalidades dessas aplicações
@@ -10,10 +10,10 @@ criei esse projeto local no gitBash e no Vscode
 vou jogar pro github como um repositório publico
 espero que dê certo
 
-********CODIGO INICIAIS PARA FUNCIONAMENTO**********
+********CODIGOS INICIAIS PARA FUNCIONAMENTO**********
 
 clear -> limpa a tela 
-ls -> ve oq tem no arquivo
+ls -> ve oq tem na pasta
 git status -> vê oq tem pra fazer/resolver
 touch -> cria um arquivo na pasta {
     ex: touch a.txt (criou o arquivo de texto "a")
