@@ -12,8 +12,10 @@ espero que dê certo
 
 ********CODIGOS INICIAIS PARA FUNCIONAMENTO**********
 
+cd -> entrar na pasta
 clear -> limpa a tela 
 ls -> ve oq tem na pasta
+code . -> te joga pro Vscode
 git status -> vê oq tem pra fazer/resolver
 touch -> cria um arquivo na pasta {
     ex: touch a.txt (criou o arquivo de texto "a")
@@ -28,7 +30,13 @@ git commit -m -> identifica e armazena o commit no repositório {
 git log -> ve os detalhes dos artigos e commits criados, inclusive seus códigos
 git log --oneline -> mesma coisa mas de forma resumida
 
-code . -> te joga pro Vscode
+git checkout -b -> cria uma nova branch {
+    ex: git checkout -b "nome da branch"
+git merge -> juntar a branch com a principal
+    ex: git merge nome da branch
+    
+git push -> jogar as alterações pra rede
+git pull -> puxar as alterações pra maquina
 
 git diff -> mostra a alteração feita no arquivo antes de vc jogar pro commit.
 
